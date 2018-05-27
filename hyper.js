@@ -6,7 +6,7 @@ const token = "NDQyMjk4MjYyMTc1NjEyOTI5.Dc85hA.aEHJ3VsNPS8tgI8dWIXCvHqm1p8";
 
 client.on("ready", () => {
     console.log("Ready!")
-    client.user.setPresence({ game: { name: 'n-am comanda de help csf | 1 server ca asa vreau eu | nu stiu cati utilizatori', type: 3 } });
+    client.user.setPresence({ game: { name: 'n-am comanda de help, csf', type: 1 } });
 });
 
 const prefix = "hl!"
